@@ -78,7 +78,7 @@ Note three crucial elements in the diagram:
 
 <HighlightBox type="info">
 
-If you're interested in another overview of the IBC protocol, in the following video Callum Waters, Engineering Manager for the Tendermind Core, gives a talk on the methodology allowing interoperability between countless sovereign blockchains and how to build an IBC-compatible app.
+If you're interested in another overview of the IBC protocol, in the following video Callum Waters, Engineering Manager for the Tendermint Core, gives a talk on the methodology allowing interoperability between countless sovereign blockchains and how to build an IBC-compatible app.
 
 <YoutubePlayer videoId="OSMH5uwTssk"/>
 
